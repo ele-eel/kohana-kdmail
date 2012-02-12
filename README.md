@@ -19,7 +19,7 @@ This mode is to parse a mail-text directly.
 ###2.stdin mode
 This mode is to parse a mail via STDIN. It will be used at CLI.
 
-##3.pop mode
+###3.pop mode
 This mode is to access a POP account, it can read, delete, count mails and use other POP operations.
 
 	<?php
