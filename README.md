@@ -37,7 +37,7 @@ This mode is to access a POP account, it can read, delete, count mails and use o
 		}
 	?>
 
-To access the POP account, setup the Kdmail config or pass args to the instance.
+To access the POP account, loads the Kdmail config or give a array.
 
 	<?php
 		//give a string, then loads the account in the Kdmail config.
